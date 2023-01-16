@@ -1,0 +1,9 @@
+.sidebar {
+    
+    flex: 0.33;
+    padding: 10px 10px;
+    top: 78px;
+    position: sticky;
+    z-index: 100;
+    height: 80vh;
+}
